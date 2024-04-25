@@ -10,5 +10,5 @@ module.exports = {
   // 行末不添加分号
   semi: false,
   // 行末不添加逗号
-  trailingComma: 'none'
-}
+  trailingComma: "none",
+};
